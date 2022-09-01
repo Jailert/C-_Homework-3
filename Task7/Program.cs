@@ -40,4 +40,4 @@ FillArray(array,-9,9);
 PrintArray(array);
 int x = SumPos(array);
 int y = SumNeg(array);
-Console.Write($"Sum positive: {x} and Sum negative: {y}");
+Console.Write($"Sum positive: {x}  Sum negative: {y}");
